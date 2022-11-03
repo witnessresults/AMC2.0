@@ -67,8 +67,7 @@ mkdir 'AMC20' && cd 'AMC20'
 ### Let's Clone AMC-2.0 from GitHub
 
 ```console
-git clone "https://github.com/hexdee606/AMC2.0.git"
-```
+C```
 
 ### Install required packages
 
